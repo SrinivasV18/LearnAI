@@ -1,1 +1,11 @@
 Creating the mini app with Loveable and N8N Workflow
+
+Prompt to give in Loveable:
+Hey I would like you to create me a visually engaging beautifully designed dark theme dashboard that's going to display comprehensive business analytics and KPI metrics.
+ I want this to pull real-time data from my Google Sheets database and refresh automatically every time the application loads. 
+ The dashboard should feature modern glassmorphism effects, smooth animations, and interactive data visualizations including revenue trends, user engagement metrics,
+  conversion funnels, and performance indicators. I need it to have a sleek cyberpunk aesthetic with neon accents, gradient backgrounds, and hover effects that make 
+  the interface feel alive and dynamic. The layout should be responsive and include customizable widgets that can be rearranged. Please make it look absolutely stunning 
+  with cutting-edge design elements that would make someone stop and say 'wow' - something that feels like it belongs in a high-tech control room. 
+
+Here's my Google Sheets link for the data integration.
