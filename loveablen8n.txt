@@ -2,3 +2,4 @@ https://srinivasv18.app.n8n.cloud/
 srinivasa.velamala@gmail.com
 MyLearning@123
 
+to deploy the appplicatin use netlify
