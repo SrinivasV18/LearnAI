@@ -1,0 +1,2 @@
+Replit AI -Replit’s integrated AI coding system inside its browser-based IDE, the Replit Workspace. It combines Replit Agent for creating new apps from natural language 
+and Replit Assistant for editing and explaining code in context.
